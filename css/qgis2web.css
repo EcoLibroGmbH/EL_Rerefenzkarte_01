@@ -1,6 +1,7 @@
 
         #map {
-            background-color: #ffffff
+            background-color: #ffffff;
+            width: 100%
         }
         html, body, #map {
 			overflow: hidden;
